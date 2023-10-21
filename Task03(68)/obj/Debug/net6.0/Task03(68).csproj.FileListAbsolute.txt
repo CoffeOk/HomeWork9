@@ -1,0 +1,15 @@
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).csproj.AssemblyReference.cache
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).GeneratedMSBuildEditorConfig.editorconfig
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).AssemblyInfoInputs.cache
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).AssemblyInfo.cs
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).csproj.CoreCompileInputs.cache
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\bin\Debug\net6.0\Task03(68).exe
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\bin\Debug\net6.0\Task03(68).deps.json
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\bin\Debug\net6.0\Task03(68).runtimeconfig.json
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\bin\Debug\net6.0\Task03(68).dll
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\bin\Debug\net6.0\Task03(68).pdb
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).dll
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\refint\Task03(68).dll
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).pdb
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\Task03(68).genruntimeconfig.cache
+E:\Библиотеки\Учёба\Курсы (UE)\2. Основы программирования (С#)\Семинары\HomeWork9\Task03(68)\obj\Debug\net6.0\ref\Task03(68).dll
