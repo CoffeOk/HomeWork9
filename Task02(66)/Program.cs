@@ -13,6 +13,8 @@ int SumNut(int x, int y)
 }
 
 int n, m;
+
+Enter:
 Console.Write("Введите число: ");
 while (!int.TryParse(Console.ReadLine(), out m))
     Console.WriteLine("Введите целое число");
@@ -21,5 +23,13 @@ Console.Write("Введите число: ");
 while (!int.TryParse(Console.ReadLine(), out n))
     Console.WriteLine("Введите целое число");
 
-int sum = SumNut (m, n);
-Console.WriteLine($"M = {m}; N = {n} -> {sum}");
+if (m < 0 || n < 0)
+{
+    Console.WriteLine("оба числа должны быть натуральными");
+    goto Enter;
+}
+else
+{
+    int sum = SumNut (m, n);
+    Console.WriteLine($"M = {m}; N = {n} -> {sum}");
+}
