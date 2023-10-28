@@ -4,8 +4,12 @@ M = 4; N = 8. -> 30 */
 
 int SumNut(int x, int y)
 {
-    if (x == y) return x;
-    else return SumNut(x, y-1) + y;    
+    if (x < y)
+    return SumNut(x, y-1) + y;
+    else if (x > y)
+    return SumNut(x - 1, y) + x;
+    else
+    return x;
 }
 
 int n, m;
